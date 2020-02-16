@@ -1,2 +1,2 @@
 # natours
-## Available at rtabulov.github.io/natours
+## Available at https://rtabulov.github.io/natours
